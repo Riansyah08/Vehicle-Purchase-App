@@ -27,4 +27,4 @@ In this project, we created a **GUI-based desktop application** that allows user
 1. Open the project in **Apache NetBeans**.
 2. Ensure your **SQL server is running** and the correct database is created.
 3. Update any necessary **DB connection credentials** in the source code.
-4. Run the main class (Main.java or equivalent).
+4. Run the main class (GUIFP.java or equivalent).
